@@ -2,7 +2,7 @@ public class Fruit {
 
     private int var;
    // int size=50;
-    //default constructor
+    //no args  constructor
     public Fruit()
     {
        this.var = 10;
